@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scipts\BackGroundLoop.cs" />
     <Compile Include="Assets\Scipts\GameManager.cs" />
+    <Compile Include="Assets\Scipts\Platform.cs" />
+    <Compile Include="Assets\Scipts\PlatformSpawner.cs" />
     <Compile Include="Assets\Scipts\PlayerController.cs" />
     <Compile Include="Assets\Scipts\ScrollingObject.cs" />
     <Reference Include="Unity.Timeline.Editor">
